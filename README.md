@@ -1,2 +1,2 @@
-# P-L-Reports---Excel-Project
-This is a project on excel generating P &amp; L Reports for AtliQ Hardwares
+# P  & L Reports - Excel-Project
+This is a project on Excel generating P & L Report for AtliQ Hardwares
